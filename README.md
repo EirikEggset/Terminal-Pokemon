@@ -2,7 +2,7 @@
 
 Spillet her blir spillt i terminalen ved å skrive 'python main.py'. For å spille må du importere keyboard med komamndoen 'pip install keyboard' på Windows.
 Jeg lagde dette som et eget prosjekt som eksamensøving for IN1000 i Desember 2020. Målet var å lære meg objekorientering bedre, ikke grafikk. Men spillet er
-lagd slik at man enkelt kan legge til "ordentlig" grafikk. spillet har flere rom, gjenstander du kan plukke opp, en ryggsekk du kan åpne og lukke, forskjellige pokemons med 
+lagd slik at man enkelt kan legge til "ordentlig" grafikk. Spillet har flere rom, gjenstander du kan plukke opp, en ryggsekk du kan åpne og lukke, forskjellige pokemons med 
 forskjellige angrep og leveler. All data kan enkelt endres i konfig- og csv-filer.
 
 Det brukes ulike unicodekarakterer, dersom terminalen din ikke kan se disse, men viser et spørsmålstegn kan du endre tegnene i filen 'room.py' på linjene 67, 69, 71 og 73.
